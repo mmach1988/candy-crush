@@ -3,7 +3,6 @@
     height: 560px;
     display: flex;
     flex-wrap: wrap;
-    background-color: blue;
 }
 
 .grid div {
